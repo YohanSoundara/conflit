@@ -1,4 +1,4 @@
-# conflit
+REMOTE
 
 Nietzsche : "Le stoïcisme est la sagesse des esclaves qui s'est élevée jusqu'au trône. Il dit : "Ne ressens rien, ne veux rien !" Ce n'est pas une philosophie pour les libres esprits."
 
